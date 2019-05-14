@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 3"
 date:   2019-04-03 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 
 Today we’re pushing on with the heat maps. I still don’t have much data to analyze, but as I continue with the 100 day challenge, the data will more or less collect itself.

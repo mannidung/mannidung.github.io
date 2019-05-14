@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 6, 7, and 8"
 date:   2019-04-16 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 I had to prioritize some other stuff, so even though I actually wrote some code, I didn’t manage to write about it. Anyhow…
 

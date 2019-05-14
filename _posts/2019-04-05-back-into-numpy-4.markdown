@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 4"
 date:   2019-04-05 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 
 (I didn’t do anything yesterday. Schande über mein Haupt as you say in German)

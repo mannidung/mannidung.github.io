@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 12, 13, 14"
 date:   2019-04-23 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 These last few days I’ve spent trying to learn Electron. “Electron!?”, you think. “But that’s not Python!”. And you are right. Electron is he JavaScript-Chromium-HTML-thing that helps you make nice GUIs and fancy apps using web technology.
 

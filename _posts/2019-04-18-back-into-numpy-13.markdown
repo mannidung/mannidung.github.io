@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 10"
 date:   2019-04-18 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 I’m so ready to throw this problem away and start working on something else. Another day of debugging and finding the error, and right now I don’t know if the error is with me not remembering the algorithm properly, or that something is wrong with my operators.
 

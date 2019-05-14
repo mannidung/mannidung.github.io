@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 1"
 date:   2019-04-01 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 Have you ever had something that you’ve procrastinated with for far too long? I have, and that is getting back into programming with Python and NumPy. Well, having some free time this week I’ve decided to start my own #100daysofcode to get started.
 

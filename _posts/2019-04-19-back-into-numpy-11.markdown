@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 11"
 date:   2019-04-19 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 It’s time to give the alternating projections problem a rest. I’m on my 6th day or so debugging and error searching, and can’t get it to work. I have even compared it to my old code that I wrote during the course. And it worked back then. I MATLAB, not Python, but it worked.
 

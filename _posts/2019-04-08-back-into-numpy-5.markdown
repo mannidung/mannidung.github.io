@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 5"
 date:   2019-04-08 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 
 A couple of days of travelling have messed up the schedule. I’m just going to continue on with my journey, even though the numbers are off :-)

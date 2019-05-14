@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 15-18"
 date:   2019-04-27 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 It’s not been much Python in the last few days. I got stuck on my detour into Electron.js and Python, and now I’m almost done.
 

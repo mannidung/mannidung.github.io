@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 9"
 date:   2019-04-17 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 Little progress today. I’m trying to get back into the algorithms and I’ve had to look through some of the old papers I used for my master’s thesis.
 

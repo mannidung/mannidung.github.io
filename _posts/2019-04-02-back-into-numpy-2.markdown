@@ -1,6 +1,11 @@
 ---
 title:  "Getting back into NumPy, Day 2"
 date:   2019-04-02 21:49:09 +0200
+categories:
+  - Programming
+tags:
+  - NumPy
+  - Python
 ---
 
 Short of time today, so just a small step forward. Yesterday I made the groundwork for the upcoming time series analysis. I imported the data from a CSV file into pandas and made a simple plot of the mean number of keystrokes for every minute of the day.
